@@ -1,0 +1,105 @@
+path fail: longnose gar,191,161,132 -> 172,154,132: Id #6506:Path Goal Flee Terrain:Station Marauder Mill at 189,158,132
+path fail: longnose gar,190,161,132 -> 171,148,132: Id #6514:Path Goal Flee Terrain:Station Marauder Mill at 188,158,132
+path fail: longnose gar,191,160,132 -> 171,153,132: Id #6514:Path Goal Flee Terrain:Station Marauder Mill at 188,158,132
+path fail: longnose gar,191,160,132 -> 172,153,132: Id #6514:Path Goal Flee Terrain:Station Marauder Mill at 188,158,132
+path fail: longnose gar,191,160,132 -> 172,150,132: Id #6514:Path Goal Flee Terrain:Station None at 191,160,132
+path fail: longnose gar,191,158,132 -> 172,152,132: Id #6514:Path Goal Flee Terrain:Station None at 191,160,132
+path fail: longnose gar,191,160,132 -> 172,153,132: Id #6506:Path Goal Flee Terrain:Station None at 191,160,132
+path fail: longnose gar,191,158,132 -> 172,151,132: Id #6506:Path Goal Flee Terrain:Station None at 190,160,132
+path fail: longnose gar,191,159,132 -> 172,154,132: Id #6506:Path Goal Flee Terrain:Station None at 190,160,132
+path fail: longnose gar,191,160,132 -> 172,155,132: Id #6506:Path Goal Flee Terrain:Station None at 191,161,132
+path fail: pike,191,161,132 -> 172,151,132: Id #6515:Path Goal Flee Terrain:Station None at 189,161,132
+path fail: longnose gar,191,161,132 -> 180,156,132: Id #6513:Path Goal Marauder Mill:Station Marauder Mill at 180,156,132
+path fail: elk bird,2,27,64 -> 7,23,67: Id #6637:Path Goal Seek Station Flood:Station Marauder Mill at 7,23,67
+path fail: dwarf,Drink,189,162,133 -> 76,69,133: Id #6492:Path Goal Start Water Job Drink Area:Station Mill Building at 48,132,127
+path fail: dwarf,Fish,190,162,133 -> 74,66,133: Id #3299:Path Goal Start Fish:Station Meeting Location at 49,127,127
+path fail: dwarf,Drink,34,148,132 -> 72,66,133: Id #2365:Path Goal Start Water Job Drink Area:Station None at 120,191,135
+path fail: elk bird,20,10,90 -> 17,11,94: Id #7062:Path Goal Seek Station Flood:Station Owner at 17,11,94
+path fail: dwarf,Drink,190,162,133 -> 76,68,133: Id #2370:Path Goal Start Water Job Drink Area:Station None at 0,76,133
+path fail: alpaca,112,28,133 -> 43,160,132: Id #6793:Path Goal Seek Station:Station None at 112,28,133
+path fail: alpaca,98,8,133 -> 38,155,132: Id #6793:Path Goal Seek Station:Station None at 98,8,133
+path fail: dwarf,Hunt,189,162,133 -> 185,121,133: Id #2797:Path Goal Seek Hunting Target:Station Mill Building at 36,157,132
+path fail: dwarf,Hunt,189,162,133 -> 135,19,133: Id #2797:Path Goal Seek Hunting Target:Station Mill Building at 37,159,132
+path fail: dwarf,Hunt,191,162,133 -> 122,45,133: Id #3939:Path Goal Seek Hunting Target:Station Mill Building at 36,156,132
+path fail: dwarf,Hunt,138,155,133 -> 74,33,133: Id #3939:Path Goal Seek Hunting Target:Station Mill Building at 37,160,132
+path fail: dwarf,Hunt,190,161,132 -> 92,60,133: Id #2797:Path Goal Seek Hunting Target:Station Mill Building at 36,160,132
+path fail: dwarf,Hunt,41,158,132 -> 80,38,133: Id #4464:Path Goal Seek Hunting Target:Station Mill Building at 42,159,132
+path fail: dwarf,Hunt,191,160,132 -> 80,38,133: Id #2797:Path Goal Seek Hunting Target:Station Mill Building at 36,160,132
+path fail: dwarf,190,160,132 -> 35,159,132: Id #2797:Path Goal Seek Station:Station None at 190,160,132
+path fail: dwarf,Drink,189,162,133 -> 70,64,133: Id #3363:Path Goal Start Water Job Drink Area:Station Mill Building at 41,159,132
+path fail: dwarf,Hunt,39,157,132 -> 120,28,133: Id #4464:Path Goal Seek Hunting Target:Station Mill Building at 43,158,132
+path fail: dwarf,Hunt,40,155,132 -> 59,20,133: Id #4464:Path Goal Seek Hunting Target:Station Mill Building at 40,154,132
+path fail: dwarf,Hunt,73,73,133 -> 35,13,133: Id #3939:Path Goal Seek Hunting Target:Station Mill Building at 41,157,132
+path fail: dwarf,Drink,190,162,133 -> 75,68,133: Id #5857:Path Goal Start Water Job Drink Area:Station None at 44,104,133
+path fail: dwarf,Hunt,190,162,133 -> 182,9,136: Id #2797:Path Goal Seek Hunting Target:Station Mill Building at 36,155,132
+path fail: dwarf,Hunt,38,155,132 -> 160,4,135: Id #4464:Path Goal Seek Hunting Target:Station Mill Building at 37,157,132
+path fail: dwarf,59,123,126 -> 62,122,126: Id #5672:Path Goal Seek Station:Station None at 62,121,126
+path fail: dwarf,59,124,126 -> 61,122,126: Id #5672:Path Goal Seek Station:Station None at 62,121,126
+path fail: dwarf,57,124,126 -> 62,121,126: Id #5672:Path Goal Seek Station:Station None at 62,121,126
+path fail: dwarf,58,124,126 -> 61,122,126: Id #5672:Path Goal Seek Station:Station None at 62,121,126
+path fail: dwarf,57,122,126 -> 62,121,126: Id #5672:Path Goal Seek Station:Station None at 62,121,126
+path fail: dwarf,57,121,126 -> 62,121,126: Id #5672:Path Goal Seek Station:Station None at 62,121,126
+path fail: dwarf,55,122,126 -> 62,121,126: Id #5672:Path Goal Seek Station Flood:Station None at 62,121,126
+path fail: dwarf,Hunt,184,161,133 -> 184,83,134: Id #4464:Path Goal Seek Hunting Target:Station Mill Building at 37,154,132
+path fail: dwarf,Fish,40,158,132 -> 122,77,133: Id #3299:Path Goal Start Fish:Station Mill Building at 41,159,132
+path fail: dwarf,Fish,191,160,132 -> 75,67,133: Id #4454:Path Goal Start Fish:Station Meeting Location at 39,159,132
+path fail: dwarf,56,123,127 -> 57,123,127: Id #5592:Path Goal Seek Station:Station Mill Building at 56,122,127
+path fail: alpaca,38,157,132 -> 54,123,127: Id #7218:Path Goal Seek Station:Station None at 38,157,132
+path fail: dwarf,47,122,127 -> 55,123,127: Id #2383:Path Goal Seek Station:Station None at 47,122,127
+path fail: dwarf,Clean,46,128,127 -> 53,122,127: Id #3939:Path Goal Clean:Station Mill Building at 39,159,132
+path fail: dwarf,49,123,127 -> 51,124,127: Id #5589:Path Goal Seek Station:Station None at 52,124,127
+path fail: dwarf,48,124,127 -> 51,124,127: Id #5589:Path Goal Seek Station:Station None at 52,124,127
+path fail: dwarf,45,123,127 -> 46,122,127: Id #2383:Path Goal Seek Station:Station None at 46,121,127
+path fail: dwarf,Clean,46,130,127 -> 43,124,127: Id #5719:Path Goal Clean:Station None at 42,142,127
+path fail: dwarf,46,132,127 -> 46,126,127: Id #3931:Path Goal Seek Station Flood:Station None at 46,126,127
+path fail: rooster,50,133,127 -> 42,132,127: Id #6503:Path Goal Flee Terrain:Station Milling Flood at 49,132,127
+path fail: dwarf,50,138,127 -> 48,138,127: Id #3932:Path Goal Seek Station:Station None at 48,138,127
+path fail: dwarf,51,138,127 -> 48,138,127: Id #3932:Path Goal Seek Station:Station None at 48,138,127
+path fail: dwarf,51,139,127 -> 49,138,127: Id #3932:Path Goal Seek Station:Station None at 48,138,127
+path fail: dwarf,49,139,127 -> 42,138,126: Id #3932:Path Goal Flee Terrain:Station None at 48,138,127
+path fail: dwarf,46,136,127 -> 47,133,127: Id #6492:Path Goal Seek Station:Station Mill Building at 48,132,127
+path fail: dwarf,46,136,127 -> 47,133,127: Id #6492:Path Goal Seek Station:Station Mill Building at 48,132,127
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: dwarf,Return Kill,57,104,188 -> 282,131,150: Id #3863:Path Goal Grab Kill:Station Mill Building at 155,120,183
+Repairing squad info for Unit #3865
+Repairing squad info for Unit #5826
+path fail: cave crocodile,78,2,138 -> 75,0,140: Id #8099:Path Goal Chase Opponent Flood:Station Marauder Mill at 73,6,140
+path fail: yak bull,51,18,182 -> 28,1,178: Id #8251:Path Goal Seek Station Flood:Station None at 28,1,178
+path fail: yak bull,51,18,182 -> 28,1,178: Id #8256:Path Goal Seek Station Flood:Station None at 28,1,178
+path fail: yak bull,51,18,182 -> 28,1,178: Id #8261:Path Goal Seek Station Flood:Station None at 28,1,178
+path fail: dwarf,Return Kill,64,23,180 -> 174,12,124: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+path fail: dwarf,Return Kill,58,46,186 -> 150,9,122: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+path fail: dwarf,Return Kill,72,36,180 -> 173,23,123: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+path fail: dwarf,Return Kill,72,36,180 -> 171,30,123: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+path fail: dwarf,Return Kill,95,24,178 -> 171,27,123: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+path fail: dwarf,Return Kill,133,42,185 -> 180,30,123: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+path fail: dwarf,Return Kill,120,61,186 -> 167,38,122: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+path fail: dwarf,Return Kill,71,97,188 -> 163,11,123: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+path fail: dwarf,Return Kill,79,50,182 -> 148,8,122: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+path fail: dwarf,Return Kill,82,46,181 -> 172,26,123: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+path fail: dwarf,Return Kill,280,129,188 -> 174,6,124: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+path fail: dwarf,Return Kill,266,150,187 -> 169,26,123: Id #7293:Path Goal Grab Kill:Station Mill Building at 149,119,183
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,147,121,183 -> 153,127,183: Id #7295:Path Goal Performance:Station Meeting Location Building at 147,117,183
+loop path fail: <same square> dwarf,147,123,183 -> 146,123,183: Id #5514:Path Goal Performance:Station Mill Building at 153,119,183
